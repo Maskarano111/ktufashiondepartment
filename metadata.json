@@ -1,0 +1,6 @@
+{
+  "name": "KTU Fashion & Graphic Design Departments",
+  "description": "Official Departmental Portal for the Fashion Design & Technology and Graphic Design Departments at Koforidua Technical University (Faculty of Business and Management Studies). Featuring curated portfolios, runway events, admissions, curriculum tracks, and faculty directory.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
